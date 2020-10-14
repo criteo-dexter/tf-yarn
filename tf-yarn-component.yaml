@@ -9,6 +9,6 @@ metadata:
     backstage.io/techdocs-ref: github:http://github.com/criteo-dexter/tf-yarn
     github.com/project-slug: criteo/tf-yarn
 spec:
-  type: library
+  type: service
   lifecycle: production
   owner: cail@criteo.com

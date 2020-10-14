@@ -1,0 +1,11 @@
+site_name: 'TF Yarn'
+
+nav:
+  - Home: README.md
+  - Tensorboard: Tensorboard.md
+  - MLflow: MLflow.md
+
+repo_url: http://github.com/criteo-dexter/tf-yarn
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TF Yarn
+  description: Criteo TF training models on YARN
+  tags:
+    - python
+  annotations:
+    backstage.io/techdocs-ref: github:http://github.com/criteo-dexter/tf-yarn
+    github.com/project-slug: criteo/tf-yarn
+spec:
+  type: library
+  lifecycle: production
+  owner: cail@criteo.com

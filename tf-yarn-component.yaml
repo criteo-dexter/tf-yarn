@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: TF Yarn
-  description: Criteo TF training models on YARN
+  name: TFYarn
+  description: "Criteo TF training models on YARN"
   tags:
     - python
   annotations:
